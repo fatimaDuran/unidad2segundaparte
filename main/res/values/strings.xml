@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RedesSociales</string>
+    <string name="type_phone">type_phome</string>
+    <string name="type_name">type_name</string>
+    <string name="type_age">type_age</string>
+    <string name="submit">submit</string>
+    <string name="TypePhone" />
+</resources>
